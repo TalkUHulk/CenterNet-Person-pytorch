@@ -24,8 +24,18 @@
 
 ## Demo
 
-![Demo1](https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/results/result_test1_hg.jpg) ![Demo2](https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/results/result_test2_hg.jpg)
-![Demo3](https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/results/result_test3_hg.jpg) ![Demo4](https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/results/result_test4_hg.jpg)
+<center class="half">
+    <img src="https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/test/test1.jpg" width="300"/><img src="https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/results/result_test1_hg.jpg" width="300"/>
+</center>
+
+<center class="half">
+    <img src="https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/test/test2.jpg" width="300"/><img src="https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/results/result_test2_hg.jpg" width="300"/>
+</center>
+
+<center class="half">
+    <img src="https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/test/test5.jpg" width="300"/><img src="https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/results/result_test5_hg.jpg" width="300"/>
+</center>
+
 
 ## References 
 
