@@ -1,8 +1,10 @@
+![TalkUHulk](https://img.shields.io/badge/TalkUHulk-Python3-green)
+
 # CenterNet-Person-pytorch
-![TalkUHulk](https://img.shields.io/badge/TalkUHulk-Python3-green)  
 
 ## 简介
 🔥水平有限，有错误请及时指出
+
 使用CenterNet训练的Person检测，数据集为coco
 
 ## 相关模型及数据集
