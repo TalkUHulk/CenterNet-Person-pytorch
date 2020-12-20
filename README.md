@@ -22,6 +22,12 @@
 - numpy==1.18.5
 - tensorboardX==2.1
 
+## Summary
+
+<center class="half">
+    <img src="https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/summary/coco_hg_512_dp/hmap_loss.jpg" width="200"/><img src="https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/summary/coco_hg_512_dp/reg_loss.jpg" width="200"/><img src="https://github.com/TalkUHulk/CenterNet-Person-pytorch/blob/main/summary/coco_hg_512_dp/wh_loss.jpg" width="200"/>
+</center>
+
 ## Demo
 
 <center class="half">
