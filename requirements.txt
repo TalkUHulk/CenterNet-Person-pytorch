@@ -1,0 +1,8 @@
+pycocotools==2.0
+warmup_scheduler==0.3.2
+opencv_python==4.4.0.44
+torchvision==0.7.0
+tqdm==4.51.0
+torch==1.6.0+cu101
+numpy==1.18.5
+tensorboardX==2.1
